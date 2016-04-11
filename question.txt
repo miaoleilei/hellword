@@ -1,0 +1,6 @@
+1、苹果手机                    UIScreen       分辨率          状态栏      导航条      Tab   
+          iPhone4，4s ，     320 * 480     640 * 960        40         88        96
+          iPhone5，5s， 5c   320 * 568     640 * 1136       40         88        96
+          iPhone6  @2×      375 * 667     750 * 1334       40         88        96
+          iPhone6P @3×      414 * 736     1080 * 1920      54         132       146
+http://tool.lanrentuku.com/guifan/ui.html
